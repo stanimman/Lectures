@@ -1,0 +1,35 @@
+Topics to include :
+
+1. Imputation
+2. Transformation
+3.  Train / Test / Validation in detail 
+
+paramteric vs Non parameteric models:
+
+	Parametric model assumes explicit assumption about the model form. 
+
+	1. First, we make an assumption about the functional form, or shape,
+	of f. For example, one very simple assumption is that f is linear in
+	X:
+	f(X) = β0 + β1X1 + β2X2 + ... + βpXp. (2.4)
+	This is a linear model, which will be discussed extensively in Chapter
+	3. Once we have assumed that f is linear, the problem of estimating
+	f is greatly simplified. Instead of having to estimate an entirely
+	arbitrary p-dimensional function f(X), one only needs to estimate
+	the p + 1 coefficients β0, β1,...,βp.
+	2. After a model has been selected, we need a procedure that uses the
+	training data to fit or train the model
+
+Non Parametric Model :
+	There is no fixed assumption but is more flexible, eg(Trees ). This flexible model are more accurate
+	
+Trade off btw accuracy &  Model interpretability 
+	
+	So why would one chose parameteric model - ? .
+	Reason :
+		when inference is the goal, the linear model may be a good choice since it will be quite easy to understand 
+		the relationship between Y and X1, X2,...,Xp.
+		
+Supervised vs Non - Supervised
+
+Regression vs Classification 
