@@ -2,6 +2,9 @@ Topics to include :
 
 1. Imputation
 2. Transformation
+	Standardization : Outliers  / unscaled data makes life difficult to visualize and some time lead to failure in convergence of the model
+		- A nice overview of scaling factor in the link https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html
+		(x -  xbar) / sigma
 3.  Train / Test / Validation in detail 
 
 paramteric vs Non parameteric models:
