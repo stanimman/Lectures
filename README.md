@@ -1,6 +1,6 @@
-#Lecture repository 
+# Lecture repository 
 
-##A repository for all my lecture Notebooks
+## A repository for all my lecture Notebooks
 
 ### **Machine Learning**
 
